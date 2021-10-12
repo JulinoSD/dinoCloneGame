@@ -15,12 +15,18 @@ a {
     cursor: pointer;
 }
 
-.background {
-    background: #000;
+/* .background {
     width: 500px;
     height: 500px;
-}
+} */
 
+.cactus {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    bottom: 0;
+    background: red;
+}
 .dino {
     width: 60px;
     height: 60px;
