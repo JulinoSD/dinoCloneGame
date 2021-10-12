@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: #fff;
 }
 
 ul, ol {
@@ -12,4 +13,18 @@ a {
     text-decoration: none;
     color: inherit;
     cursor: pointer;
+}
+
+.background {
+    background: #000;
+    width: 500px;
+    height: 500px;
+}
+
+.dino {
+    width: 60px;
+    height: 60px;
+    background: brown;
+    position: absolute;
+    bottom: 0;
 }
